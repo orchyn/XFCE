@@ -1,4 +1,4 @@
-# Customize your XFCE
+# Rea Light
 
 ![Alt text](https://imgur.com/UgIcRbp.png?raw=true)
 
