@@ -1,7 +1,7 @@
 # Rea
 A simple theme for XFCE desktop (Light and Dark variants).
 
-![Alt text](https://imgur.com/K1b0Wpn.png?raw=true)
+![Alt text](https://imgur.com/4CYQeb0.png?raw=true)
 
 
 
@@ -13,7 +13,7 @@ A simple theme for XFCE desktop (Light and Dark variants).
 
 # Rea Light
 
-![Alt text](https://imgur.com/hQ3gaPg.png?raw=true)
+![Alt text](https://imgur.com/tdCcie0.png?raw=true)
 
 
 
@@ -22,7 +22,7 @@ A simple theme for XFCE desktop (Light and Dark variants).
 
 # Rea Dark
 
-![Alt text](https://imgur.com/g7QfsSc.png?raw=true)
+![Alt text](https://imgur.com/VIDdRPU.png?raw=true)
 
 
 
