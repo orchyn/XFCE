@@ -1,0 +1,8 @@
+full_width_title=true
+button_offset=1
+button_spacing=2
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
+active_text_color=#575757
+inactive_text_color=rgba(87, 87, 87, 0.8)
+maximized_offset=6
