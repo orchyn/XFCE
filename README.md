@@ -1,6 +1,6 @@
 # Rea Light
 
-![Alt text](https://imgur.com/UgIcRbp.png?raw=true)
+![Alt text](https://imgur.com/gILkgwn.png?raw=true)
 
 
 
