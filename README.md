@@ -29,9 +29,9 @@ A simple theme for XFCE desktop (Light and Dark variants).
 
 
 ## Usage
-1. Download
-2. Extract. Place **Rea-Light** and **Rea-Dark** into <kbd>~/.themes</kbd> (create if necessary)
-3. Open Settings Manager and Select the theme (**Rea-**) in the Appearance menu
+1. Download,
+2. Extract **Rea-Light**, **Rea-Dark**, and **ReaLight**, **ReaDark** to <kbd>~/.themes</kbd> (create if necessary),
+3. Open Settings Manager and select the GTK theme in the Appearance menu. Navigate to Window Manager and select the xfwm4 theme.
 
 
 ## Bugs, requests
