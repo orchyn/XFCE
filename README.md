@@ -1,3 +1,11 @@
+# OSX-Lion
+GTK2/3 theme based on the appearance of OS X Lion.
+
+![Alt text](https://imgur.com/1DUaPel.png?raw=true)
+
+
+
+
 # Rea
 A simple theme for XFCE desktop (Light and Dark variants).
 
@@ -30,8 +38,12 @@ A simple theme for XFCE desktop (Light and Dark variants).
 
 ## Usage
 1. Download,
-2. Extract **Rea-Light**, **Rea-Dark**, and **ReaLight**, **ReaDark** to <kbd>~/.themes</kbd> (create if necessary),
-3. Open Settings Manager and select the GTK theme in the Appearance menu. Navigate to Window Manager and select the xfwm4 theme.
+2. Extract **OSX-Lion**, **Rea-Light**, **Rea-Dark**, and **ReaLight**, **ReaDark** to <kbd>~/.themes</kbd> (create if necessary),
+3. Open Settings Manager and select the GTK theme in the Appearance menu.
+4. Xfwm4
+   - **OSX-Lion**: Set matching Xfwm4 theme .
+   - **ReaLight**, **ReaDark**: Navigate to Window Manager and select the xfwm4 theme.
+5. Change panel background for OSX-Lion theme. Go to Panel preferences => Appearance =>  Style and choose background image (OSX-Lion/panel-bg.png).
 
 
 ## Bugs, requests
