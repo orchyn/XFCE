@@ -1,7 +1,7 @@
 # OSX-Lion
 GTK2/3 theme based on the appearance of OS X Lion.
 
-![Alt text](https://imgur.com/1DUaPel.png?raw=true)
+![Alt text](https://imgur.com/LEyk0lu.png?raw=true)
 
 
 
