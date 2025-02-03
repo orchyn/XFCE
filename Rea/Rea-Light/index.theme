@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rea-Light
+Comment=Gtk+ Light theme for XFCE
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Rea-Light
+MetacityTheme=Rea-Light
+IconTheme=
+CursorTheme=
+ButtonLayout=close,minimize,maximize:menu
