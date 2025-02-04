@@ -41,7 +41,11 @@ A simple theme for XFCE desktop (Light and Dark variants).
 2. Extract **OSX-Lion**, **Rea-Light**, **Rea-Dark** to <kbd>~/.themes</kbd> (create if necessary),
 3. Open Settings Manager and select the GTK theme in the Appearance menu.
 4. Xfwm4: Set matching Xfwm4 theme or navigate to Window Manager and select the xfwm4 theme.
-5. Change panel background for OSX-Lion theme (Horizontal mode). Go to Panel preferences => Appearance => Style and choose background image, File: OSX-Lion/panel-bg.png. Then go to Panel preferences => Display => Measurements, and set Row size (pixels): 24, Border width (pixels): 0.
+5. Panel (Horizontal mode) for OSX-Lion theme:
+ 
+   - Go to Panel preferences => Appearance => Style and choose background image, File: OSX-Lion/*panel-bg.png*.
+   - Then go to Panel preferences => Display => Measurements, and set Row size (pixels): 24, Border width (pixels): 0.
+     
 
 
 ## Bugs, requests
