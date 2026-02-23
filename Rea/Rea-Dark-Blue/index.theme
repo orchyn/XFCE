@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rea-Dark-Blue
+Comment=Gtk+ Dark-Blue theme for XFCE
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Rea-Dark-Blue
+MetacityTheme=Rea-Dark-Blue
+IconTheme=
+CursorTheme=
+ButtonLayout=close,minimize,maximize:menu
