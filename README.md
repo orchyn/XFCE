@@ -50,7 +50,7 @@ A simple theme for XFCE desktop (Light and Dark variants).
 
 ## Bugs, requests
 
-Please visit the <a href="https://github.com/mkole/XFCE/issues">issues page</a>
+Please visit the <a href="https://github.com/orchyn/XFCE/issues">issues page</a>
 
 <hr></hr>
 
